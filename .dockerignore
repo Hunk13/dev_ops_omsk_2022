@@ -1,0 +1,5 @@
+main
+out.log
+Dockerfile
+docker-compose.yml
+/pkg/
